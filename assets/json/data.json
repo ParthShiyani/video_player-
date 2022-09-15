@@ -1,0 +1,41 @@
+[
+  {
+    "image": "assets/images/birds.jpg",
+    "category": "Birds",
+    "assetsVideos" : [
+      "assets/videos/b1.mp4",
+      "assets/videos/b2.mp4",
+      "assets/videos/b3.mp4"
+    ],
+    "networkVideos" : [
+      "https://media.istockphoto.com/videos/fabulous-sunset-from-a-birds-eye-view-fog-illuminated-by-the-sun-video-id1332671435",
+      "https://media.istockphoto.com/videos/european-robin-looking-for-food-in-tree-stump-in-forest-and-flying-video-id1301955103"
+    ]
+  },
+  {
+    "image": "assets/images/car.jpg",
+    "category": "Cars",
+    "assetsVideos" : [
+      "assets/videos/c1.mp4",
+      "assets/videos/c2.mp4",
+      "assets/videos/c3.mp4"
+    ],
+    "networkVideos" : [
+      "https://media.istockphoto.com/videos/fabulous-sunset-from-a-birds-eye-view-fog-illuminated-by-the-sun-video-id1332671435",
+      "https://media.istockphoto.com/videos/european-robin-looking-for-food-in-tree-stump-in-forest-and-flying-video-id1301955103"
+    ]
+  },
+  {
+    "image": "assets/images/nature.jpg",
+    "category": "Nature",
+    "assetsVideos" : [
+      "assets/videos/n1.mp4",
+      "assets/videos/n2.mp4",
+      "assets/videos/n3.mp4"
+    ],
+    "networkVideos" : [
+      "https://media.istockphoto.com/videos/fabulous-sunset-from-a-birds-eye-view-fog-illuminated-by-the-sun-video-id1332671435",
+      "https://media.istockphoto.com/videos/european-robin-looking-for-food-in-tree-stump-in-forest-and-flying-video-id1301955103"
+    ]
+  }
+]
